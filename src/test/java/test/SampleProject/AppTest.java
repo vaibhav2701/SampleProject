@@ -31,4 +31,11 @@ public class AppTest {
     	System.out.println("This is third test");
     	Assert.assertTrue("3rd Test Passed", true);
     }
+    
+    @Test
+    public void Sample4(){
+    	
+    	System.out.println("This is fourth test");
+    	Assert.assertTrue("4th Test Passed", true);
+    }
 }
