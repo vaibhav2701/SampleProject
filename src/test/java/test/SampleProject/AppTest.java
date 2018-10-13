@@ -50,6 +50,6 @@ public class AppTest {
     public void Sample6(){
     	
     	System.out.println("This is sixth test");
-    	Assert.assertTrue("6th Test Passed updateduff", true);
+    	Assert.assertTrue("6th Test Passed updatedwow", true);
     }
 }
