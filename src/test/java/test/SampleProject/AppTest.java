@@ -49,7 +49,7 @@ public class AppTest {
     @Test
     public void Sample6(){
     	
-    	System.out.println("This is sixth test");
+    	System.out.println("This is sixth test2");
     	Assert.assertTrue("6th Test Passed updated", true);
     }
 }
