@@ -35,7 +35,7 @@ public class AppTest {
     @Test
     public void Sample4(){
     	
-    	System.out.println("This is fourth test");
+    	System.out.println("This is fourth testGOD");
     	Assert.assertTrue("4th Test Passed", true);
     }
     
